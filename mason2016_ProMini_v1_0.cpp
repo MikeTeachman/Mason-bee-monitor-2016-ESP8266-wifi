@@ -46,8 +46,8 @@ v1.0
 #define I2C_EXPANDER_ADDR 0x70
 
 // Wifi Information
-#define SSID (F("Hedgie2.4"))
-#define PASS (F("morewind"))
+#define SSID (F("==uid=="))
+#define PASS (F("==pw=="))
 #define IP (F("184.106.153.149")) // ThingSpeak IP Address: 184.106.153.149
 
 // Software Serial 
